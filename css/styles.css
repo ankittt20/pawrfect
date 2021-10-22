@@ -131,11 +131,11 @@ p {
 
 /**************************** Pricing Section *********************************/
 #pricing {
-  padding: 100px 100px 20px;
+  padding: 100px 100px 10px;
 }
 
 .pricing-column {
-  padding: 3% 2%;
+  padding: 2% 2%;
 }
 
 /***************************** Call To Action *********************************/
@@ -172,6 +172,7 @@ p {
 /****************************** Media Query ***********************************/
 
 @media (max-width: 1028px) {
+
   #title {
     text-align: center;
   }
